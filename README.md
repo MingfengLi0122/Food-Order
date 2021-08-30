@@ -3,13 +3,13 @@
 A food ordering app for the customer and restaurant manager. The customer is able to add and edit products in the cart by selecting the product in the menu, and place the order. At the same time, customer can also search the purposed product based on their own interest. Once the order is placed, restaurant owner will be notified by incoming order, and the restaurant owner is able to send notify message to customer once the order is completed.
 
 
-Menu: 
+Menu page
 ![app screenshot](https://raw.githubusercontent.com/elbowgrrl/Food-Order/css/public/screenshots/Yoommi%20-%20menu%20view.png "Yoommi Menu")
 
-More Info: 
+Food detail page
 ![app screenshot](https://raw.githubusercontent.com/elbowgrrl/Food-Order/css/public/screenshots/Yoommi%20-%20more%20info%20view.png "Yoommi More Info")
 
-More Info: 
+Checkout page
 ![app screenshot](https://raw.githubusercontent.com/elbowgrrl/Food-Order/css/public/screenshots/Yoommi%20-%20checkout.png "Yoommi Cart")
 
 
